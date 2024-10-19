@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Events-state-dropdown/static/css/main.067584d5.css",
+    "main.js": "/RA-Events-state-dropdown/static/js/main.ee71a634.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Events-state-dropdown/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Events-state-dropdown/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Events-state-dropdown/index.html",
+    "main.067584d5.css.map": "/RA-Events-state-dropdown/static/css/main.067584d5.css.map",
+    "main.ee71a634.js.map": "/RA-Events-state-dropdown/static/js/main.ee71a634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067584d5.css",
+    "static/js/main.ee71a634.js"
+  ]
+}
